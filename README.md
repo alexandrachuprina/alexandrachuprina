@@ -1,4 +1,3 @@
-### Hello! My name is Sasha, I am self-taught front-end developer. 
-
-Currently I am using TypeScript & React.js (Vite) for my pet-projects and learning Vue.js during internship. 
+### Alexandra Chuprina, Front-end developer
+Feel free to contact me: [alexandrachuprina](https://t.me/alexandrachuprina) / shplvk@gmail.com
 
