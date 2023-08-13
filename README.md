@@ -11,6 +11,6 @@ SASS/ SCSS, css-in-js, Andt <br>
 Git, GitHub, GitLab <br>
 Docker <br>
 
- <br>
-Feel free to contact me: [alexandrachuprina](https://t.me/alexandrachuprina) / shplvk@gmail.com
+<br>
 
+Feel free to contact me: [ alexandrachuprina ](https://t.me/alexandrachuprina) / shplvk@gmail.com
